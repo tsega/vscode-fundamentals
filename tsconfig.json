@@ -5,7 +5,7 @@
     "module": "commonjs",
     "sourceMap": true,
     "checkJs": true,
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "noImplicitReturns": true,
     "experimentalDecorators": true,
     "baseUrl": ".",
