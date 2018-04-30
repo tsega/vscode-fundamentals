@@ -91,7 +91,7 @@
 ### Code Snippets
 * Prefix is what you'll type (and then hit <kbd>Tab</kbd>)
 * `${1:300}` means "first placeholder, which initially has a value of 300"
-* When filling out this template, repeated use of a given placeholder is updated
+* When filling out this template, repeated use of a given placeholder is updated  
 ```js
 "For Loop": {
   "prefix": "for",
